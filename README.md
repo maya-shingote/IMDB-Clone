@@ -1,5 +1,42 @@
 # Getting Started with Create React App
 
+         
+         THello!
+         This Application is Clone of IMDB Application.
+        I build it using in React for frontend  user Interface.
+        TMDB API key  use for getting data and transfer through json into data.
+        #npm package 
+        react-router-dom
+        react-responsive-carousel
+        React-Loading-Skeleton
+
+        90089c40384a5d03de5ee781e4f6c630 API key you can access it foryour future purposes.
+
+Font Awesome CDN (include it in index.html in head)
+https://fontawesome.com/v5/docs/web/use-with/wordpress/install-manually#setup-webfont-with-cdn 
+
+ React-Loading-Skeleton
+https://www.npmjs.com/package/react-loading-skeleton
+
+React-responsive-carousel
+https://www.npmjs.com/package/react-responsive-carousel
+
+Image path
+https://image.tmdb.org/t/p/original/ 
+
+IMDB Logo
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/2560px-IMDB_Logo_2016.svg.png
+
+TMDB Movie API
+Popular-https://api.themoviedb.org/3/movie/popular?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US
+
+Top-rated -https://api.themoviedb.org/3/movie/top_rated?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US
+
+Upcoming- https://api.themoviedb.org/3/movie/top_rated?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US
+
+React Dev Tools
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -41,25 +78,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
